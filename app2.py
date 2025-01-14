@@ -147,7 +147,6 @@ st.markdown(
 )
 
 # Sidebar content
-st.sidebar.markdown('<div class="sidebar"><div class="sidebar-content">', unsafe_allow_html=True)
 st.sidebar.markdown('<div class="title">🖌️ Generate Your Image</div>', unsafe_allow_html=True)
 
 # Sidebar form
